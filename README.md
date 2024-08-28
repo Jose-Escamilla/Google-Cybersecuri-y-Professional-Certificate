@@ -7,7 +7,7 @@ Module 1: Fundamentals of Cybersecurity
 [Description of the module and related content]
 
 Module 2: Play It Safe: Manage Security Risks
-** [Module 2 - Play It Safe: Manage Security Risks]([2.%20Play%20It%20Safe:%20Manage%20Security%20Risks/](https://github.com/Jose-Escamilla/Google-Cybersecuri-y-Professional-Certificate/tree/c10c391a2b2c3e73b8ab83244be02860bd7f9d1c/2.%20Play%20It%20Safe%20Manage%20Security%20Risks))
+** [Module 2 - Play It Safe: Manage Security Risks](2.%20Play%20It%20Safe:%20Manage%20Security%20Risks/](https://github.com/Jose-Escamilla/Google-Cybersecuri-y-Professional-Certificate/tree/c10c391a2b2c3e73b8ab83244be02860bd7f9d1c/2.%20Play%20It%20Safe%20Manage%20Security%20Risks)
 [Description of the module and related content]
 
 Module 3: Connect and Protect: Networks and Network Security
